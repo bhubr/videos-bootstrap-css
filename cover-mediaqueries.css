@@ -10,8 +10,9 @@
   }
 }
 
-@media screen and (min-width: 601px) and (max-width: 900px) {
+/* Commenté car ça fait juste... moche, faut pas se mentir ! */
+/*@media screen and (min-width: 601px) and (max-width: 900px) {
   h1 {
     color: red;
   }
-}
+}*/
